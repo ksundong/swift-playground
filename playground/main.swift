@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
+func sum(num: Int) -> ((Int) -> Int) {
+    return { second in num + second }
+}
 
+print(sum(num: 10)(5))
+print("Hello, World!")
