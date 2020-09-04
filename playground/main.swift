@@ -8,5 +8,19 @@
 
 import Foundation
 
-let name: String = "dion"
-print("My name is \(name)")
+// 한 줄 주석
+
+/* 여러 줄 주석
+ 이 줄도 주석
+ 요 줄도 주석 */
+
+/*
+ 이렇게도 쓸 수 있다.
+ */
+
+/*
+ /*
+ // 주석 안의 주석
+ */
+ 이 줄도 주석
+ */
