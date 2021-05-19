@@ -26,7 +26,7 @@ let explicitFloat: Float = 4
 
 // If you need to convert a value to a different type, explicitly make an instance of the desired type.
 
-let label = "The witdth is "
+let label = "The width is "
 let width = 94
 // different with Java(java can label + width)
 let widthLabel = label + String(width)
