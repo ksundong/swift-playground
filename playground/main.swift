@@ -8,4 +8,9 @@
 
 import Foundation
 
+print("Simple Values")
 simpleValues()
+print("-----------------------------------------------------------")
+print("Control Flow")
+controlFlow()
+print("-----------------------------------------------------------")
